@@ -34,7 +34,7 @@ pipeline {
 
      }
   
-   	}
+   	
 
      stage("Deploy application") { 
       
