@@ -6,7 +6,7 @@ pipeline {
    
      stage('Checkout') { 
         steps { 
-         sh  'echo "Checkout code"'
+         s 'echo "Checkout code"'
         }
      }
      
